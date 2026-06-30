@@ -17,7 +17,7 @@ public class SpringLearnApplication {
 
         SpringApplication.run(SpringLearnApplication.class, args);
 
-        displayCountry();
+//        displayCountry();
     }
 
     public static void displayCountry() {
